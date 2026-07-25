@@ -1,5 +1,7 @@
 # @medusajs/types
 
+## 2.18.1
+
 ## 2.18.0
 
 ### Minor Changes

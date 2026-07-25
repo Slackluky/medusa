@@ -1,5 +1,12 @@
 # @medusajs/analytics-posthog
 
+## 2.18.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.18.1
+
 ## 2.18.0
 
 ### Patch Changes
